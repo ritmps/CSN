@@ -1,0 +1,13 @@
+pandas
+numpy
+ipywidgets
+tensorflow
+pillow
+umap-learn
+distinctipy
+flask
+flask_ngrok
+pyngrok
+notebook
+matplotlib
+scikit-learn
